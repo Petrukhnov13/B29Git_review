@@ -1,4 +1,4 @@
-package util
+package util;
 
 public class Java{
 // new
